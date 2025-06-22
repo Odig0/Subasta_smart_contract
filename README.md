@@ -4,7 +4,7 @@
 Implementa un sistema de subasta en Solidity versión `0.8.26` Licencia MIT
 
 **Dirección en Sepolia:** `0x4e2c84ac7b384e299f9d719a08e36cbe8ba5ef97`
-**Url del mismo** `https://sepolia.etherscan.io/address/0x4e2c84ac7b384e299f9d719a08e36cbe8ba5ef97#code `
+**Url del mismo**   [https://sepolia.etherscan.io/address/0x4e2c84ac7b384e299f9d719a08e36cbe8ba5ef97#code]`
 
 ##  Objetivo del Contrato
 El objetivo de este contrato es permitir que los usuarios participen en una subasta descentralizada, donde:
